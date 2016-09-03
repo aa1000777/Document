@@ -1,0 +1,14 @@
+Home 		宽：1080px 	高：476px
+
+Home end 	宽：1080px 	高：155px
+
+news		宽：936px 	高：365px
+news letters	宽：226px 	高：320px
+
+speakers	宽：261px 	高：275px
+
+exhibitor	宽：224px 	高：224px
+
+Sponsors	宽：270px 	高：245px
+
+
